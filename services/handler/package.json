@@ -39,7 +39,7 @@
     "pino": "^6.11.3",
     "pino-pretty": "^5.1.0",
     "polka": "^1.0.0-next.15",
-    "postgres": "2.0.0-beta.4",
+    "postgres": "2.0.0-beta.11",
     "reflect-metadata": "^0.1.13",
     "tslib": "^2.3.0",
     "tsyringe": "^4.5.0",
