@@ -19,7 +19,7 @@
     "#util": "./dist/util/index.js"
   },
   "devDependencies": {
-    "@cordis/common": "^0.2.3",
+    "@cordis/common": "^1.0.0",
     "@types/common-tags": "^1.8.0",
     "@types/node": "^14.17.4",
     "@types/node-fetch": "^2.5.10",
